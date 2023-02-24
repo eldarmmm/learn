@@ -1,0 +1,237 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTINF:0 tvg-logo="http://ottiptv.ru/img/logos/films/vip-premiere.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", ViP Premiere HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIPPREMIERE/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
+#EXTINF:0 tvg-logo="http://ottiptv.ru/img/logos/films/vip-megahit.png"catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", ViP Megahit HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIPMEGAHIT/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
+#EXTINF:0 tvg-logo="http://ottiptv.ru/img/logos/films/vip-comedy.png"catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", ViP Comedy HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIPCOMEDY/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
+#EXTINF:0 tvg-logo="http://ottiptv.ru/img/logos/films/vip-serial.png"catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", ViP Serial HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIPSERIAL/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
+#EXTINF:0 tvg-id="297" tvg-logo="http://epg.cdntv.online/img/297.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", DTX
+https://livetv.mylifeisgood.ml/channels/discoverydtx
+#EXTINF:0 tvg-id="895" tvg-logo="http://epg.cdntv.online/img/895.png" group-title="KINO+", VHS
+https://autopilot.catcast.tv/content/37925/index.m3u8
+#EXTINF:0 tvg-id="309" tvg-logo="http://epg.cdntv.online/img/309.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", National Geographic
+http://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
+#EXTINF:0 tvg-id="1349" tvg-logo="http://epg.cdntv.online/img/1349.png" group-title="KINO+", Lostfilm
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:0 tvg-id="1062" tvg-logo="http://epg.cdntv.online/img/1062.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Первый космический HD
+https://livetv.mylifeisgood.ml/channels/firstspace
+#EXTINF:0 tvg-id="448" tvg-logo="http://epg.cdntv.online/img/448.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Глазами туриста
+https://livetv.mylifeisgood.ml/channels/glazamiturista
+#EXTINF:0 tvg-id="449" tvg-logo="http://epg.cdntv.online/img/449.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Живая природа HD
+https://livetv.mylifeisgood.ml/channels/jivyapriroda
+#EXTINF:0 tvg-id="445" tvg-logo="http://epg.cdntv.online/img/445.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", HDL
+https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:0 tvg-id="230" tvg-logo="http://epg.cdntv.online/img/230.png" group-title="Региональные", Наша Сибирь 4K
+https://livetv.mylifeisgood.ml/channels/nashasibir4k
+#EXTINF:0 tvg-id="269" tvg-logo="http://epg.cdntv.online/img/269.png" catchup="shift" catchup-days="3" timeshift="3" group-title="ТВ Каналы", Мужской
+https://sc.id-tv.kz/Mujskoi_34_35.m3u8
+#EXTINF:0 tvg-id="265" tvg-logo="http://epg.cdntv.online/img/265.png" catchup="shift" catchup-days="3" timeshift="3" group-title="ТВ Каналы", Авто 24
+https://sc.id-tv.kz:443/Avto24_36_37.m3u8
+#EXTINF:0 tvg-id="297" tvg-logo="http://epg.cdntv.online/img/297.png" catchup="shift" catchup-days="3" timeshift="3" group-title="ТВ Каналы", EXTRA TV
+http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
+#EXTINF:0 tvg-id="506" tvg-logo="http://epg.cdntv.online/img/506.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", .Black
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:0 tvg-id="414" tvg-logo="http://epg.cdntv.online/img/414.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", Киноклуб
+http://autopilot.catcast.tv/content/39005/index.m3u8
+#EXTINF:0 tvg-id="103" tvg-logo="http://epg.cdntv.online/img/103.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", TV1000AVD TV
+https://autopilot.catcast.tv/content/40791/index.m3u8
+#EXTINF:0 tvg-id="1261" tvg-logo="http://epg.cdntv.online/img/1261.png" group-title="KINO+", CineMa Ужасы
+https://v2.catcast.tv/content/38896/index.m3u8
+#EXTINF:0 tvg-id="1376" tvg-logo="http://epg.cdntv.online/img/1376.png" group-title="KINO+", СССР HD
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:0 tvg-id="1353" tvg-logo="http://epg.cdntv.online/img/1353.png" group-title="KINO+", Cinema Classic
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:0 tvg-id="89" tvg-logo="http://epg.cdntv.online/img/89.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", CINEMA R
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:0 tvg-id="121" tvg-logo="http://epg.cdntv.online/img/121.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", Кинопремьера
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:0 tvg-id="121" tvg-logo="http://epg.cdntv.online/img/121.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", Кинопремьера HD
+http://91.210.251.17:4866/udp/239.0.20.7:4000
+#EXTINF:0 tvg-id="120" tvg-logo="http://epg.cdntv.online/img/120.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", Киномикс HD
+https://sc.id-tv.kz/Kinomix_hd.m3u88
+#EXTINF:0 tvg-id="120" tvg-logo="http://epg.cdntv.online/img/120.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", Киномикс HD
+http://91.210.251.17:4866/udp/239.0.1.114:4000
+#EXTINF:0 tvg-id="1079" tvg-logo="http://epg.cdntv.online/img/1079.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", Premiere
+http://91.210.251.17:4866/udp/239.0.20.27:4000
+#EXTINF:0 tvg-id="898" tvg-logo="http://epg.cdntv.online/img/898.png" group-title="KINO+", Serial
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=vip_serial
+#EXTINF:0 tvg-id="87" tvg-logo="http://epg.cdntv.online/img/87.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", AMEDIA HIT HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:0 tvg-id="90" tvg-logo="http://epg.cdntv.online/img/90.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", FilmBox
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:0 tvg-id="92" tvg-logo="http://epg.cdntv.online/img/92.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", FOX ABAZA TV
+http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
+#EXTINF:0 tvg-id="903" tvg-logo="http://epg.cdntv.online/img/903.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", Душевное HD
+http://50.7.231.220:8081/172/index.m3u8?wmsAuthSign=okad
+#EXTINF:0 tvg-id="1097" tvg-logo="http://epg.cdntv.online/img/1097.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", International
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:0 tvg-id="1103" tvg-logo="http://epg.cdntv.online/img/1103.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", Кино Ultra HD
+http://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:0 tvg-id="1119" tvg-logo="http://epg.cdntv.online/img/1119.png" group-title="KINO+", .Red
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:0 tvg-id="99" tvg-logo="http://epg.cdntv.online/img/99.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", Sony Sci-Fi
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:0 tvg-id="482" tvg-logo="http://epg.cdntv.online/img/482.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Gulli Girl
+https://sc.id-tv.kz:443/Gulli_34_35.m3u8
+#EXTINF:0 tvg-id="425" tvg-logo="http://epg.cdntv.online/img/425.png" group-title="Детские", Film TV kinder
+http://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:0 tvg-id="148" tvg-logo="http://epg.cdntv.online/img/148.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Tiji
+https://sc.id-tv.kz:443/TiJi_34_35.m3u8
+#EXTINF:0 tvg-id="152" tvg-logo="http://epg.cdntv.online/img/152.png" group-title="Детские", Карусель HD
+https://sc.id-tv.kz:443/Karusel_36_37.m3u8
+#EXTINF:0 tvg-id="152" tvg-logo="http://epg.cdntv.online/img/152.png" group-title="Детские", Мультсказки
+https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:0 tvg-id="152" tvg-logo="http://epg.cdntv.online/img/152.png" group-title="Детские", Бобик в гостях у Барбоса 1977
+https://vs46.vcdn.biz/b8dd805689ecbc347014b35d40a27afa_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/84891/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid551791129-b2000000.m3u8
+#EXTINF:0 tvg-id="241" tvg-logo="http://epg.cdntv.online/img/241.png" group-title="Познавательные", Славянский
+https://n1.slavmir.tv/live/slavmir/playlist.m3u8
+#EXTINF:0 tvg-id="412" tvg-logo="http://epg.cdntv.online/img/412.png" group-title="Познавательные", Конный Мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="354" tvg-logo="http://epg.cdntv.online/img/354.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Техно Мир
+https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
+#EXTINF:0 tvg-id="422" tvg-logo="http://epg.cdntv.online/img/422.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Дикая рыбалка HD
+http://okkotv-live.cdnvideo.ru/channel/Dikaya_Rybalka_HD.m3u8
+#EXTINF:0 tvg-id="336" tvg-logo="http://epg.cdntv.online/img/336.png" catchup="shift" catchup-days="3" timeshift="3" group-title="ТВ Каналы", Кухня ТВ
+http://a787201993-zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw20000000/variant.m3u8?version=2
+#EXTINF:0 tvg-id="336" tvg-logo="http://epg.cdntv.online/img/336.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кулинарные", Кухня ТВ
+http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:0 tvg-id="518" tvg-logo="http://epg.cdntv.online/img/518.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кулинарные", Еда
+https://sc.id-tv.kz/EdaHD_34_35.m3u8
+#EXTINF:0 tvg-id="519" tvg-logo="http://epg.cdntv.online/img/519.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кулинарные", Телекафе
+https://sc.id-tv.kz:443/Telecafe_36_37.m3u8
+#EXTINF:-1 group-title="Музыкальные",Techno Warehouse HD
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 group-title="Музыкальные",TVM3
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",V2 Beat HD
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 group-title="Музыкальные",Шансон
+https://sc.id-tv.kz:443/Shanson_34_35.m3u8
+#EXTINF:-1 group-title="Музыкальные",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",М2 HD
+http://live.m2.tv/hls3/720/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыкальные Кино International
+http://autopilot.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыкальные 2 International
+http://autopilot.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Viva Russia HD
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 group-title="Музыкальные",Factoria TV HD
+https://eu1.servers10.com:8081/8010/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV Biggest Pop HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV Block Party HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Музыкальные",Trance is Star
+http://tis.catcast.tv/content/391/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыкальные",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыкальные",H!T Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 group-title="Музыкальные",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Portal FoxMix TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1 group-title="Музыкальные",Persiana Music
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные",MGR TV HD
+https://vod.streams.ovh:3876/stream/play.m3u8
+#EXTINF:-1 group-title="Музыкальные",MIX MY DAY TV HD
+https://mmdtv.ddns.net:3400/live/mixmydaylive.m3u8
+#EXTINF:-1 group-title="Музыкальные",MN Music
+http://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 group-title="Музыкальные",XITE TV HD (NL)
+http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Прибой ТВ HD
+http://185.78.112.46:8077/priboy_tv_hd/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Sonus FM
+http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
+#EXTINF:-1 group-title="Музыкальные",Radio Хит ТВ (300p)
+http://lova.me/hls/hit.m3u8
+#EXTINF:0 tvg-id="357" tvg-logo="http://epg.cdntv.online/img/357.png" group-title="Познавательные", Усадьба
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="685" tvg-logo="http://epg.cdntv.online/img/685.png" group-title="Региональные", Turan TV
+https://sc.id-tv.kz/TuranTV_36_37.m3u8
+#EXTINF:0 tvg-id="370" tvg-logo="http://epg.cdntv.online/img/370.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:0 tvg-id="311" tvg-logo="http://epg.cdntv.online/img/311.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Мособр TV
+http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="319" tvg-logo="http://epg.cdntv.online/img/319.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Viasat Nature
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:0 tvg-id="544" tvg-logo="http://epg.cdntv.online/img/544.png" group-title="Региональные", Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:0 tvg-id="387" tvg-logo="http://epg.cdntv.online/img/387.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", Фильмы HD cinema
+http://c-230-2.videomore.ru/v-230-1/92/82/928200fbe12bd37b10887f939ec17c20/928200fbe12bd37b10887f939ec17c20-qx1080.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="201" tvg-logo="http://epg.cdntv.online/img/201.png" group-title="Спортивные", Астрахань.Ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="38" tvg-logo="http://epg.cdntv.online/img/38.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 tvg-id="1180" tvg-logo="http://epg.cdntv.online/img/1180.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Музыкальные", 1mus.com
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:0 tvg-id="281" tvg-logo="http://epg.cdntv.online/img/281.png" catchup="shift" catchup-days="3" timeshift="3" group-title="ТВ Каналы", Беларусь 24
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:0 tvg-id="94" tvg-logo="http://epg.cdntv.online/img/94.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", Fox life
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:0 tvg-id="95" tvg-logo="http://epg.cdntv.online/img/95.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", Fox Russia HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
+#EXTINF:0 tvg-id="4" tvg-logo="http://epg.cdntv.online/img/4.png" catchup="shift" catchup-days="3" timeshift="3" group-title="ТВ Каналы", RT Russian
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:0 tvg-id="101" tvg-logo="http://epg.cdntv.online/img/101.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", Action TV1000 (Russian HD)
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:0 tvg-id="101" tvg-logo="http://epg.cdntv.online/img/101.png" catchup="shift" catchup-days="3" timeshift="3" group-title="KINO+", TV1000 (Russian HD)
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:0 tvg-id="317" tvg-logo="http://epg.cdntv.online/img/317.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Viasat Explore
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:0 tvg-id="30" tvg-logo="http://epg.cdntv.online/img/30.png" group-title="ТВ Каналы", Пятый канал
+https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
+#EXTINF:0 tvg-id="193" tvg-logo="http://epg.cdntv.online/img/193.png" group-title="Спортивные", Turkmen Спорт HD
+http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:0 tvg-id="40" tvg-logo="http://epg.cdntv.online/img/40.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", BT Sport 1
+http://skdn.redi-vo.com/iptv/ch1828
+#EXTINF:0 tvg-id="1419" tvg-logo="http://epg.cdntv.online/img/1419.png" group-title="KINO+", Старт FHD
+https://stream-msk-02.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/03/plst.m3u8
+#EXTINF:0 tvg-id="1192" tvg-logo="http://epg.cdntv.online/img/1192.png" group-title="Спортивные", Alfa Sport (ENG)
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:0 tvg-id="43" tvg-logo="http://epg.cdntv.online/img/43.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", America Sports) (ENG)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
+#EXTINF:0 tvg-id="40" tvg-logo="http://epg.cdntv.online/img/40.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", ALL Sport (Italian)
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:0 tvg-id="40" tvg-logo="http://epg.cdntv.online/img/40.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Sport (Abu Dhabi)
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="40" tvg-logo="http://epg.cdntv.online/img/40.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Adventure Sport TV) (ENG)
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+#EXTINF:0 tvg-id="40" tvg-logo="http://epg.cdntv.online/img/40.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", TELE MONTE NEVE
+http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8
+#EXTINF:0 tvg-id="285" tvg-logo="http://epg.cdntv.online/img/285.png" catchup="shift" catchup-days="3" timeshift="3" group-title="ТВ Каналы", Euronews
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:0 tvg-id="730" tvg-logo="http://epg.cdntv.online/img/730.png" group-title="Взрослые", AdultIPTV 18+
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:0 tvg-id="1033" tvg-logo="http://epg.cdntv.online/img/1033.png" group-title="Спортивные", Sport HGTV HD
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/51073/hlsx/pl.m3u8
+#EXTINF:0 tvg-id="1106" tvg-logo="http://epg.cdntv.online/img/1106.png" group-title="ТВ Каналы", Настоящее время
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="491" tvg-logo="http://epg.cdntv.online/img/491.png" group-title="Музыкальные", Mezzo
+https://sc.id-tv.kz:443/ViasatHistory_34_35.m3u8
+#EXTINF:0 tvg-id="448" tvg-logo="http://epg.cdntv.online/img/448.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Поехали!
+https://sc.id-tv.kz/poehali_34_35.m3u8
+#EXTINF:0 tvg-id="349" tvg-logo="http://epg.cdntv.online/img/349.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Психология
+http://37.17.12.119:8907/play/a00a
+#EXTINF:0 tvg-logo="http://ottiptv.ru/img/logos/sport/setanta-kz.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Setanta Qazaqstan HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/setanta_qas/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
+#EXTINF:0 tvg-logo="http://ottiptv.ru/img/logos/sport/setanta-plus-ua.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Setanta Sports UA+ HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/Setanta_Sportsplus_UA_HD/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
+#EXTINF:0 tvg-logo="http://ottiptv.ru/img/logos/sport/setanta-sports1.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Setanta Sports 1 HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/Setanta_Sports_1/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
+#EXTINF:0 tvg-logo="http://ottiptv.ru/img/logos/sport/setanta-sports2.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Setanta Sports 2 HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/Setanta_Sports_2/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
+#EXTINF:0 tvg-logo="http://ottiptv.ru/img/logos/sport/setanta-ua.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные",Setanta Sports UA HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/Setanta_Sports_UA_HD/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==

@@ -1,0 +1,19 @@
+body {
+    background-image: url("../../img/body_back.png");
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+
+a {
+    text-decoration: none;
+}
+
+@font-face {
+    font-family: PTSans;
+    src: url("../../font/PTSans-Regular.ttf");
+}
+
+@font-face {
+    font-family: Vollkorn;
+    src: url("../../font/Vollkorn-Regular.ttf");
+}

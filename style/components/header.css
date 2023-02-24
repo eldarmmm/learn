@@ -1,0 +1,73 @@
+.header {
+    display: flex;
+    background-color: #fff;
+    margin: 0 8%;
+}
+
+.header_logo {
+    background: conic-gradient(from 45.96deg at 100% 20.64%, rgba(16, 55, 94, 0) -95.62deg, #10375E 3.75deg, rgba(16, 55, 94, 0.22407) 146.25deg, rgba(16, 55, 94, 0.0211387) 253.13deg, rgba(16, 55, 94, 0) 264.38deg, #10375E 363.75deg);
+    padding: 1% 2%;
+    display: flex;
+}
+
+.header_logo img{
+    object-fit: none;
+}
+
+.header .header_menu{
+    width: 100%;
+}
+
+@media(max-width:520px) {
+    .header .header_menu {
+        display: none;
+    }
+    .header_logo {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+#login {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 5%;
+    height: 200px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 15px 15px 2px;
+    transition: .4s;
+}
+
+.login_window {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    justify-content: center;
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+}
+
+.login_window h2{
+    width: 100%;
+    font-weight: 800;
+    font-family: PT Sans, sans-serif;
+    color: #10375E;
+    margin-bottom: 20px;
+}
+
+.login_window input{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.login_window button {
+    width: calc(100% - 50px);
+    margin-bottom: 20px;
+}
+
+.open {
+    display: block !important;
+}
